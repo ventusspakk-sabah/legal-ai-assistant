@@ -1,0 +1,9 @@
+fastapi
+psycopg2-binary
+numpy
+pandas
+scikit-learn
+requests
+aiogram
+python-dotenv
+email-validator
